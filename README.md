@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dominik
-- 👀 I’m interested in expanding my programming skills
+- 👀 I’m interested in improving my programming skills
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 - 📫 How to reach me ... send me an e-mail: dominikszafara@gmail.com
 
